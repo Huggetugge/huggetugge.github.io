@@ -44,7 +44,7 @@
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
+.mySlides {display: all}
 img {vertical-align: middle;}
 
 /* Slideshow container */
