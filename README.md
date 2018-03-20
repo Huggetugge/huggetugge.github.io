@@ -1,4 +1,4 @@
-## Welcome to Huggetugge`s Pages
+## Welcome to Huggetugge`s Pages :)
 
 
 <html lang="en">
