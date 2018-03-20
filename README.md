@@ -38,11 +38,6 @@
 </html>
 
 
-### Markdown
-
-
-
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -211,13 +206,7 @@ function showSlides(n) {
 
 </body>
 </html> 
-<!DOCTYPE html>
-<html>
-<body>
 
-<!DOCTYPE html>
-<html>
-<body>
 
 <h2>HTML Links</h2>
 <p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
