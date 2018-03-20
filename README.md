@@ -65,7 +65,7 @@ img {vertical-align: middle;}
   color: white;
   font-weight: bold;
   font-size: 18px;
-  transition: 0.6s ease;
+  transition: 1.6s ease;
   border-radius: 0 3px 3px 0;
 }
 
@@ -117,23 +117,6 @@ img {vertical-align: middle;}
   background-color: #717171;
 }
 
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 3.5s;
-  animation-name: fade;
-  animation-duration: 3.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
