@@ -10,9 +10,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body>
-
-<!DOCTYPE html>
+<body><!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -27,7 +25,7 @@
 <div class="container">
   <h2>Rounded Corners</h2>
   <p>The .img-rounded class adds rounded corners to an image (not available in IE8):</p>            
-  <img src="Hugo1.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
+  <img src="huggetugge.github.io/hugo1.jpg." class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
 </div>
 
 </body>
@@ -36,7 +34,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
