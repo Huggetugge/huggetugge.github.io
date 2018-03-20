@@ -24,7 +24,7 @@
 
 <div class="container">
   <h2>Rounded Corners</h2>
-  <p>The .img-rounded class adds rounded corners to an image (not available in IE8):</p>            
+             
   <img src="huggetugge.github.io/hugo1.jpg." class="img-circle" alt="Hugo1" width="304" height="236"> 
 </div>
 
@@ -54,12 +54,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Huggetugge/huggetugge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
