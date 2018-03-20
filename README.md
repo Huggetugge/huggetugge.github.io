@@ -25,7 +25,7 @@
 <div class="container">
   <h2>Rounded Corners</h2>
   <p>The .img-rounded class adds rounded corners to an image (not available in IE8):</p>            
-  <img src="huggetugge.github.io/hugo1.jpg." class="img-rounded" alt="Hugo1" width="304" height="236"> 
+  <img src="huggetugge.github.io/hugo1.jpg." class="img-circle" alt="Hugo1" width="304" height="236"> 
 </div>
 
 </body>
